@@ -386,9 +386,7 @@ function Mint() {
 				<NavbarLinkA href={openseaURL}>
 					<NavbarImage src={Opensea} />
 				</NavbarLinkA>
-				<NavbarLinkA href={twitterURL}>
-					<NavbarImage src={Twitter} />
-				</NavbarLinkA>
+				
 				
 			</MintPageNavbar>
 			<DescriptionPanel>
